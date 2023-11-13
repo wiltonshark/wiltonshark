@@ -22,7 +22,7 @@ Abraço.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/wilton-pedrosa/) 
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/wiltonshark/) 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:wiltonshark@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:wiltongpedrosa@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/PERFIL%20DIO-000?style=for-the-badge&logo=diome)](https://web.dio.me/users/wiltonshark)
 
 <h1 align="center"></h1>
